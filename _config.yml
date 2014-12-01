@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            matt ewing
+tagline:          Tagline...?
+url:              http://mattewing.org/one
 paginate:         1
-baseurl:          /
+baseurl:          http://mattewing.org/one/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Matt Ewing
+  url:            https://twitter.com/mattewing
+  email:          mattrewing@gmail.com
 
 # Custom vars
 version:          1.0.0
